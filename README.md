@@ -12,7 +12,7 @@ Features We can add
 - Display Items
 - Exit
 
-## How to Run
+ How to Run :
 
 1. Compile:
    javac Warehouse.java
@@ -20,7 +20,7 @@ Features We can add
 2. Run:
    java Warehouse
 
-## Sample Output
+Sample Output is :
 ===== Warehouse Menu =====
 1. Add Item
 2. Remove Item
