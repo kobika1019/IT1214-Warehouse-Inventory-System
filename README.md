@@ -1,10 +1,10 @@
-# IT1214-Warehouse-Inventory-System
-# Warehouse Inventory Management System
+IT1214-Warehouse-Inventory-System
+Warehouse Inventory Management System
 
-## Description
-This is a Java-based system to manage warehouse items using ArrayList.
 
-## Features
+* This is a Java-based system to manage warehouse items using ArrayList.
+
+Features We can add
 - Add Item
 - Remove Item
 - Update Quantity
